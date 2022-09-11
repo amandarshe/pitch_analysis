@@ -2,7 +2,7 @@
 
 Automatic:
   - Code to analyze pitch/tonal congruency after automated segmentation and labeling of tones
-  s
+
 Manual:
   - Code to analyze pitch/tonal congruency after manual segmentation and labeling of tones
 
