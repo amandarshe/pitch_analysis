@@ -1,10 +1,10 @@
 # pitch_analysis
 
-Manual:
-  - Code to analyze pitch/tonal congruency after manual segmentation and labeling of tones
-  
 Automatic:
   - Code to analyze pitch/tonal congruency after automated segmentation and labeling of tones
+  s
+Manual:
+  - Code to analyze pitch/tonal congruency after manual segmentation and labeling of tones
 
 Statistical Analysis:
   - Manually recorded the 2nd and 4th toned notes from 10 song samples, entering each tone's slope value according to pitch analysis
